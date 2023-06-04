@@ -8,3 +8,7 @@ This is a simple blog template for main page and contact form, made with HTML, C
 
 1. Clone the repository.
 2. Open index.html
+
+or
+
+1. Visit site here: https://rafalxczajkowski.github.io/blog/
