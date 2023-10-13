@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a simple blog template for main page and contact form, made with HTML, CSS + Sass, JavaScript.
+Blog template for main page and contact form, made with HTML, CSS + Sass, JavaScript.
 
 ## Usage
 
