@@ -4,10 +4,11 @@
 
 Blog template for main page and contact form, made with HTML, CSS + Sass, JavaScript.
 
-## Usage
-
+## Installation
 1. Clone the repository.
-2. Open index.html
+
+## Usage
+1. Open the application in your browser by opening index.html
 
 or
 
